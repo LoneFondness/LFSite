@@ -13,6 +13,6 @@ All gameplay takes place on a public or self-hosted server of your choice. No tr
 ### Private Server Program - *lfserver*
 If you choose to host your own server, we make the following guarantees:
 
-1. **The private server program is identical to the public server.** No differences in functionality or behavior.
-2. **The program is resource-efficient.** It is designed to use minimal CPU, memory, and bandwidth.
-3. **No user data is collected or transmitted.** You retain full control over your hosted environment.
+- **The private server program is identical to the public server.** No differences in functionality or behavior.
+- **The program is resource-efficient.** It is designed to use minimal CPU, memory, and bandwidth.
+- **No user data is collected or transmitted.** You retain full control over your hosted environment.

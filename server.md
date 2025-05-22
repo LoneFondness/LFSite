@@ -3,18 +3,18 @@ layout: default
 title: Private Server Guide
 ---
 
-## 🖥️ What is a game server?
+## 📘 What is a game server?
 
 In an online game, a **central coordination server** is used to synchronize game state between players.  
 By default, *Lone Fondness* uses public servers maintained by us. However, you can also host your own **private server** for more control and a smoother connection.
 
 ---
 
-## ❓ Why run a private server?
+## 🔍 Why run a private server?
 
-1. ⚠️ **Better connectivity** — While we provide public servers across several continents, some users may experience high latency or unreachable networks due to local restrictions.
-2. 💡 **Guaranteed availability** — Public servers have limited computing resources. During peak hours, you may not be able to create a new game.
-3. 🛠️ **Full control** — A private server gives you stable performance, faster response time, and a self-managed environment with no dependency on our infrastructure.
+1. 📶 **Better connectivity** — While we provide public servers across several continents, some users may experience high latency or unreachable networks due to local restrictions.
+2. ✅ **Guaranteed availability** — Public servers have limited computing resources. During peak hours, you may not be able to create a new game.
+3. 🖥️ **Full control** — A private server gives you stable performance, faster response time, and a self-managed environment with no dependency on our infrastructure.
 
 ---
 
@@ -34,7 +34,6 @@ tar xzf lfserver-1.0-linux-amd64.tar.gz
 > ✅ The server runs with no configuration on supported platforms.  
 > Supported architectures: **Linux x86_64 (amd64)** and **Linux ARM64**.
 
----
 
 ### Step 2: Connect from the app
 

@@ -1,0 +1,50 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background: linear-gradient(to bottom, #893c1d, #2c1c11);
+}
+
+// 页脚样式
+.site-footer {
+  margin-top: 3em;
+  padding: 1.5em;
+  text-align: center;
+  font-size: 0.9em;
+  color: #b25555;
+  border-top: 1px solid #bababa;
+}
+.site-footer a {
+  color: #eeaaaa;
+  text-decoration: none;
+}
+.site-footer a:hover { text-decoration: underline; }
+
+// 按钮样式
+.btn-group {
+  margin-top: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
+.btn.icon {
+  background-color: #a85c3c;
+  color: #fff;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 1rem;
+  display: inline-flex;
+  align-items: center;
+  transition: background-color 0.2s ease-in-out;
+}
+.btn.icon:hover { background-color: #d46a3b; }
+
+// 修改默认字体
+body {
+  font-family: "Chalkboard SE", "Comic Sans MS", "Segoe Print", sans-serif;
+}

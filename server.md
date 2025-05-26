@@ -28,7 +28,7 @@ Download the server binary for your platform, extract it, and run the executable
 # extract
 tar xzf lfserver-1.0-linux-amd64.tar.gz
 # run
-./lfserver-1.0-linux-amd64
+./lfserver
 ```
 
 > ✅ The server runs with no configuration on supported platforms.  
@@ -37,7 +37,7 @@ tar xzf lfserver-1.0-linux-amd64.tar.gz
 
 ### Step 2: Connect from the app
 
-On the game’s **main screen**, click the pot icon to access the server list.
+On the game’s **main scene**, click the pot to access the server list.
 
 - Enter your server’s IP address or domain name.
 - Then **select it as your active server** before creating or joining any game.
@@ -49,8 +49,8 @@ On the game’s **main screen**, click the pot icon to access the server list.
 
 ## 📦 Downloads
 
-- [lfserver-1.0-linux-amd64.tar.gz](#)
-- [lfserver-1.0-linux-arm64.tar.gz](#)
+- [lfserver-1.0-linux-amd64.tar.gz](https://github.com/LoneFondness/LFSite/releases/download/v1.0.0/lfserver-1.0-linux-amd64.tar.gz)
+- [lfserver-1.0-linux-arm64.tar.gz](https://github.com/LoneFondness/LFSite/releases/download/v1.0.0/lfserver-1.0-linux-arm64.tar.gz)
 
 ---
 

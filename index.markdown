@@ -20,6 +20,3 @@ On your turn, you can perform one of the following actions:
 2. If a full descending sequence from K to A appears in a column, remove it from play.
     * If all cards in the sequence share the same suit, you earn 1 point.
 3. The game ends when all cards are cleared or the countdown timer reaches zero.
-
-
-![photo](photo.png)
